@@ -1,0 +1,3 @@
+This my very first "class" code i write, so i update it to record my journey of python coding.
+
+still learning...
