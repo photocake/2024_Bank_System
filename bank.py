@@ -62,7 +62,7 @@ class Bank:
                 f.write('Name: ' + self.username + " " + lastname + '\n' + 'Password: ' + password + '\n' + 'Date: ' + date + '/' + month + '/' + year)
 
             with open(self.username + ".txt", "w", encoding="utf-8") as f:
-                 f.write(self.username + ' ' + password)
+                f.write(self.username + ' ' + password)
 
             print('You finished your registration')
             time.sleep(1.5)
